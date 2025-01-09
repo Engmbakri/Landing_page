@@ -12,7 +12,7 @@ Tailwind CSS for utility-first styling
 Lucide icons for consistent visual elements
 shadcn/ui components for enhanced UI elements
 
-🛠️  Technologies Used
+🛠️ Technologies Used
 
 React 18
 Vite
